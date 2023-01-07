@@ -8,3 +8,7 @@ body {
     font-size: 4em;
     margin-top: auto;
 }
+
+.contenu {
+    background-color: rgb(29, 29, 29);
+}
