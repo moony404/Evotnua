@@ -12,3 +12,9 @@ body {
 .contenu {
     background-color: rgb(29, 29, 29);
 }
+
+.defaultFont {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+    color: rgb(29, 29, 29);
+}
