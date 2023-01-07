@@ -9,12 +9,13 @@ body {
     margin-top: auto;
 }
 
-.contenu {
-    background-color: rgb(29, 29, 29);
+.barreLatteralGauche {
+    background-color: rgb(37, 37, 37);
+    padding: auto;
 }
 
 .defaultFont {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 2em;
-    color: rgb(29, 29, 29);
+    font-size: 1.5em;
+    color: rgb(201, 201, 201);
 }
