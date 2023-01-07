@@ -1,4 +1,10 @@
 body {
-    font-family: 'Fredoka One', cursive;
-    font-weight: bold;
+    background-color: rgb(21, 21, 21);
+}
+
+.Evotnua {
+    font-family: 'Nabla', cursive;
+    font-weight: 600;
+    font-size: 4em;
+    margin-top: auto;
 }
