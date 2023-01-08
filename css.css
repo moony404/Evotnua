@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(21, 21, 21);
+    background: linear-gradient(90deg, #8955e9, #ffffff);
 }
 
 .Evotnua {
@@ -10,14 +10,28 @@ body {
 }
 
 .barreLatteralGauche {
-    background-color: rgb(37, 37, 37);
     width: 16em;
     height: 30em;
     padding-bottom: 0em;
+    margin: 0;
+    border-top: 3px black solid;
+    border-right: 3px black solid;
+    border-bottom: 3px black solid;
+    border-left: 3px black solid;
+    border-radius: 10px;
+    padding-left: 0;
+}
+
+.userSelection {
+    /* rien */
 }
 
 .defaultFont {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 1.5em;
     color: rgb(255, 255, 255);
+}
+
+a:link {
+    text-decoration: none;
 }
