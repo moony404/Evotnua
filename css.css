@@ -1,3 +1,7 @@
+* {
+    margin: 0;
+}
+
 body {
     background: linear-gradient(90deg, #8955e9, #ffffff);
 }
@@ -11,21 +15,18 @@ body {
 
 .barreLatteralGauche {
     width: 16em;
-    height: 30em;
-    padding-bottom: 0em;
-    margin: 0;
-    border-top: 3px black solid;
+    height: 20em;
     border-right: 3px black solid;
     border-bottom: 3px black solid;
-    border-left: 3px black solid;
-    border-radius: 10px;
-    padding-left: 0;
+    background-color: rgb(28, 28, 28);
+    position: relative;
 }
 
-.defaultFont {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+a {
     font-size: 1.5em;
     color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 10px;
 }
 
 a:link {
