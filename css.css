@@ -15,20 +15,27 @@ body {
 
 .barreLatteralGauche {
     width: 16em;
-    height: 20em;
+    height: 94vh;
     border-right: 3px black solid;
-    border-bottom: 3px black solid;
     background-color: rgb(28, 28, 28);
-    position: relative;
 }
 
 a {
     font-size: 1.5em;
     color: rgb(255, 255, 255);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin-bottom: 10px;
 }
 
 a:link {
     text-decoration: none;
+}
+
+.messagerie {
+    background-color: black;
+    color: white;
+}
+
+footer {
+    background-color: rgb(28, 28, 28);
+    height: 1vh;
 }
